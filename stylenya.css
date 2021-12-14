@@ -1,0 +1,32 @@
+ .color-navy {color: Navy}
+ .background-dodgerblue {background-color:DodgerBlue}
+ h3 {font-size: 24px}
+ //body {text-align: center;}
+ p {font-family: verdana;font-size: 16px;}
+ #Cure {font-size: 20px}
+ #days {font-size: 30px}
+#konten {
+  background-color : white;
+  width: 600px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+ }
+ h2,.center {text-align: center}
+ .border {border-style: outset;color: Navy;}
+ .border2 {border-style: dotted solid solid;color: rgba(39, 39, 155, 1);}
+ .btn {
+  border: none;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.rest {background-color: #2196F3;} /* Blue */
+.rest:hover {background: #0b7dda;}
+
+.play {background-color: #4CAF50;} /* Green */
+.play:hover {background-color: #46a049;}
+
+.work {background-color: #ff9800;} /* Orange */
+.work:hover {background: #e68a00;}
